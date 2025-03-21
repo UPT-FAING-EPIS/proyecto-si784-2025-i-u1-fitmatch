@@ -18,7 +18,9 @@ Docente: Mag. Ing. Patrick Cuadros Quiroga
 
 Integrantes:
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+Vargas Gutierrez, Angel Jose 			(2020066922)
+Chino Rivera, Angel Alessandro          (2021069830)
+Luna Juarez, Juan Brendon               (2020068762)
 
 **Tacna – Perú**
 
