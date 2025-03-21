@@ -10,11 +10,11 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *{Nombre de Proyecto}***
+**Proyecto *FitMach***
 
-Curso: *{Nombre de Asignatura}*
+Curso: Calidad y Pruebas de Software
 
-Docente: *{Nombre de Docente}*
+Docente: Mag. Ing. Patrick Cuadros Quiroga
 
 Integrantes:
 
