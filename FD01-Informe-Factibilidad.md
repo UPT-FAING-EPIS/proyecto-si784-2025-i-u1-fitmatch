@@ -10,26 +10,31 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *{Nombre de Proyecto}***
+**Proyecto de Sistema Fit Match***
 
-Curso: *{Nombre de Asignatura}*
+Curso: *Calidad y Pruebas de Software*
 
-Docente: *{Nombre de Docente}*
+Docente: *Patrick Cuadros Quiroga*
 
 Integrantes:
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+***
+    Luna Juarez, Juan Brendon 			(2020068762)
+    Vargas Gutierrez, Angel Jose 		(2020066922)
+    Chino Rivera, Angel Alessandro 		(2021069830)
+    
+***
 
 **Tacna – Perú**
 
-***{Año}***
+***2025***
 
 **  
 **
 </center>
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-Sistema *{Nombre del Sistema}*
+Sistema *Sistema Fit Match*
 
 Informe de Factibilidad
 
@@ -76,9 +81,10 @@ Versión *{1.0}*
 1. <span id="_Toc52661346" class="anchor"></span>**Descripción del Proyecto**
 
     1.1. Nombre del proyecto
+         - Sistema Fit Match.
 
     1.2. Duración del proyecto
-
+        - 5 meses
     1.3. Descripción
 
         En que consiste el proyecto/importancia del mismo, contexto en que se va desenvolver
