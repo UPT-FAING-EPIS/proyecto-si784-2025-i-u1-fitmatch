@@ -163,19 +163,75 @@ El producto busca posicionarse como una solución integral dentro del sector fit
 
 4.2	Resumen de capacidades
 
+- **Emparejamiento inteligente**: Conexión entre usuarios y entrenadores basada en ubicación y objetivos de entrenamiento.  
+- **Mensajería interna**: Comunicación directa entre usuarios y entrenadores dentro de la plataforma.  
+- **Publicación de rutinas y planes**: Entrenadores y gimnasios pueden compartir programas de entrenamiento personalizados.  
+- **Marketplace fitness**: Venta de productos y servicios relacionados con el entrenamiento.  
+
 4.3	Suposiciones y dependencias
+
+- Se asume que los usuarios cuentan con acceso a internet para utilizar la plataforma.  
+- La precisión del emparejamiento depende de la disponibilidad y actualización de datos de ubicación y preferencias del usuario.  
+- La adopción del sistema por parte de entrenadores y gimnasios será clave para su éxito.  
+- Dependencia de pasarelas de pago seguras para gestionar compras dentro de la plataforma.  
+- Cumplimiento con normativas de protección de datos y privacidad.  
 
 4.4	Costos y precios
 
+**FitMatch** tendrá un modelo de negocio basado en:  
+
+- **Acceso gratuito** con funciones básicas para usuarios generales.  
+- **Planes de suscripción premium** para acceder a funciones avanzadas, como entrenamientos exclusivos y soporte personalizado.  
+- **Comisiones por ventas** dentro del marketplace de productos y servicios fitness.  
+- **Publicidad y promoción** de gimnasios y entrenadores dentro de la plataforma. 
+
 4.5	Licenciamiento e instalación
+
+- **Modelo SaaS (Software as a Service)**: No requiere instalación local, accesible desde la web y dispositivos móviles.  
+- **Licenciamiento basado en suscripción**, con opciones para usuarios individuales, entrenadores y gimnasios.  
+- **Cumplimiento con regulaciones de privacidad y seguridad** para garantizar la protección de los datos de los usuarios.  
+- **Actualizaciones y mantenimiento** incluidos dentro de las suscripciones premium para garantizar mejoras continuas.
 
 [5.	Características del producto](#_Toc52661350)
 
+FitMatch ofrece una serie de características clave diseñadas para mejorar la experiencia de los usuarios dentro del mundo del fitness:  
+
+- **Emparejamiento inteligente**: Algoritmo que conecta a usuarios con compañeros de entrenamiento y entrenadores personales basándose en ubicación, intereses y objetivos.  
+- **Mensajería interna**: Comunicación directa y segura entre usuarios y entrenadores dentro de la plataforma.  
+- **Publicación de rutinas y entrenamientos**: Entrenadores pueden compartir planes personalizados y recomendaciones.  
+- **Marketplace fitness**: Venta de productos y servicios como suplementos, equipos de entrenamiento y asesorías personalizadas.  
+- **Sistema de suscripciones**: Acceso a contenido exclusivo y entrenadores premium mediante planes pagos.  
+
 [6.	Restricciones](#_Toc52661351)
+
+El desarrollo y uso de FitMatch están sujetos a las siguientes restricciones:  
+
+- **Acceso a internet**: La plataforma requiere una conexión activa para su funcionamiento.  
+- **Privacidad y protección de datos**: Cumplimiento con regulaciones de privacidad como GDPR y la normativa local.  
+- **Requisitos técnicos**: Compatible con navegadores modernos y dispositivos móviles con iOS o Android.  
+- **Interacciones reguladas**: La comunicación entre usuarios debe respetar términos de servicio y condiciones de uso. 
+- **Limitaciones en la precisión del emparejamiento**: Basado en la disponibilidad y actualización de datos del usuario.  
 
 [7.	Rangos de calidad](#_Toc52661352)
 
+Para garantizar una experiencia óptima, FitMatch debe cumplir con los siguientes estándares de calidad:  
+
+- **Disponibilidad**: Mínimo 99% de tiempo en línea para garantizar acceso continuo.  
+- **Seguridad**: Implementación de cifrado en datos sensibles y protección contra accesos no autorizados.  
+- **Experiencia de usuario (UX/UI)**: Diseño intuitivo y adaptable a distintos dispositivos.  
+- **Tiempo de respuesta**: Carga rápida de contenido, con tiempos de respuesta inferiores a 2 segundos en consultas estándar.  
+- **Compatibilidad**: Soporte para versiones recientes de navegadores web y sistemas operativos móviles.  
+- **Mantenimiento y actualizaciones**: Correcciones y mejoras periódicas sin afectar la experiencia del usuario.  
+
 [8.	Precedencia y Prioridad](#_Toc52661353)
+
+Las características de FitMatch serán implementadas en el siguiente orden de prioridad:  
+
+**Sistema de emparejamiento** (alta prioridad) → Base principal del producto.  
+**Mensajería interna y notificaciones** (alta prioridad) → Facilita la interacción entre usuarios.  
+**Marketplace fitness** (media-alta prioridad) → Genera oportunidades de negocio dentro de la plataforma.  
+**Control de métricas y progreso** (media prioridad) → Mejora la experiencia del usuario.  
+**Integración con redes sociales** (baja prioridad) → Agrega valor adicional, pero no es esencial en el lanzamiento inicial.  
 
 [9.	Otros requerimientos del producto](#_Toc52661354)
 
