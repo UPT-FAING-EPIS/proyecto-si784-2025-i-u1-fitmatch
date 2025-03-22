@@ -49,11 +49,11 @@ Integrantes:
 
 
 
-**Sistema *{Nombre del Sistema}***
+**Sistema *FitMach***
 
 **Documento de Visión**
 
-**Versión *{1.0}***
+**Versión *1.0***
 **
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
@@ -227,11 +227,11 @@ Para garantizar una experiencia óptima, FitMatch debe cumplir con los siguiente
 
 Las características de FitMatch serán implementadas en el siguiente orden de prioridad:  
 
-**Sistema de emparejamiento** (alta prioridad) → Base principal del producto.  
-**Mensajería interna y notificaciones** (alta prioridad) → Facilita la interacción entre usuarios.  
-**Marketplace fitness** (media-alta prioridad) → Genera oportunidades de negocio dentro de la plataforma.  
-**Control de métricas y progreso** (media prioridad) → Mejora la experiencia del usuario.  
-**Integración con redes sociales** (baja prioridad) → Agrega valor adicional, pero no es esencial en el lanzamiento inicial.  
+- **Sistema de emparejamiento** (alta prioridad) → Base principal del producto.  
+- **Mensajería interna y notificaciones** (alta prioridad) → Facilita la interacción entre usuarios.  
+- **Marketplace fitness** (media-alta prioridad) → Genera oportunidades de negocio dentro de la plataforma.  
+- **Control de métricas y progreso** (media prioridad) → Mejora la experiencia del usuario.  
+- **Integración con redes sociales** (baja prioridad) → Agrega valor adicional, pero no es esencial en el lanzamiento inicial.  
 
 [9.	Otros requerimientos del producto](#_Toc52661354)
 
