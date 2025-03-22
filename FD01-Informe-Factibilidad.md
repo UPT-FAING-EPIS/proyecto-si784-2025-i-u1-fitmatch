@@ -77,11 +77,12 @@ Versión *{1.0}*
 
 1. <span id="_Toc52661346" class="anchor"></span>**Descripción del Proyecto**
 
-    1.1. Nombre del proyecto
+    1.1. Nombre del proyecto<br>
          - Sistema Fit Match.
-
-    1.2. Duración del proyecto
+<br>
+    1.2. Duración del proyecto<br>
         - 5 meses
+   <br>
     1.3. Descripción
 
    El proyecto consiste en el desarrollo de una aplicación de emparejamiento en gimnasio que permitirá a los usuarios hacer match     de acuerdo a sus rutinas en el gimnasio
