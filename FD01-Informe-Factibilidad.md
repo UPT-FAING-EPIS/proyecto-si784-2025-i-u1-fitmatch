@@ -78,10 +78,12 @@ Versión *{1.0}*
 1. <span id="_Toc52661346" class="anchor"></span>**Descripción del Proyecto**
 
     1.1. Nombre del proyecto<br>
+    <br>
          - Sistema Fit Match.
 <br>
     1.2. Duración del proyecto<br>
-        - 5 meses
+       <br>
+       - 5 meses
    <br>
     1.3. Descripción
 
@@ -105,23 +107,61 @@ Versión *{1.0}*
 
 
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+<div style="page-break-after: always; visibility: hidden"></div>
 
 2. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
 
-    Señale los riesgos que pudieran afectar el éxito del proyecto.}*
+        Riesgo Técnico: Posible dificultad para integrar correctamente la interfaz de Windows
+        Forms con SQL Server, lo cual podría retrasar el desarrollo.
+   
+        Riesgo Financiero: Incremento en los costos estimados debido a ajustes adicionales
+        en el diseño o funcionalidades de la aplicación.
+   
+        Riesgo de Seguridad: Posibles vulnerabilidades en la protección de datos de los
+        usuarios, que podrían impactar en la confianza y aceptación de la aplicación.
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+       Riesgo Operativo: Que los usuarios no encuentren la aplicación lo suficientemente
+        intuitiva, afectando la adopción y uso continuo de la herramienta.
+       
+        Riesgo de Cumplimiento: Cambios en normativas de privacidad y seguridad de datos
+        que podrían requerir ajustes en la aplicación.
+
+       Riesgo de Competencia: Aparición de aplicaciones similares en el mercado que
+        ofrecen más funcionalidades o mejores prestaciones.
+
+
+<div style="page-break-after: always; visibility: hidden"></div>
 
 3. <span id="_Toc52661348" class="anchor"></span>**Análisis de la Situación actual**
 
     3.1. Planteamiento del problema
 
-            Describa antecedentes y situación actual, explicando la problemática y/o necesidad que será resuelta con el proyecto propuesto.
+            Muchos usuarios no ven progresos o avances en el gimnasio en cuanto a su
+            físico por que no llevan un registro en         cuanto a los pesos que cargan en el
+            gimnasio o un registro de la cantidad de calorías en el gimnasio.
 
     3.2. Consideraciones de hardware y software
 
-            Hardware y software posibles para la implementación, se analizara lo que existe y es alcanzable, se evaluara que tecnología se puede > utilizar en el proyecto.
+            Hardware
+                Computadoras de escritorio o laptops con sistema operativo Windows,
+                con al menos 4 GB de RAM y 10 GB de espacio disponible en disco, para
+                asegurar el rendimiento óptimo de la aplicación.
+
+            Software
+                Sistema Operativo: Windows 10 o superior.
+   
+                Entorno de Desarrollo: Visual Studio para el desarrollo en Windows
+                Forms, ya que proporciona herramientas robustas para la creación de
+                aplicaciones de escritorio en C#.
+
+                Base de Datos: SQL Server para el almacenamiento de información de
+                usuarios y rutinas, seleccionado por su capacidad de manejar datos de
+                manera segura y eficiente.
+
+                Librerías y Componentes: Se considerarán librerías para la
+                implementación de gráficos de progreso y otros elementos visuales
+                interactivos.
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
