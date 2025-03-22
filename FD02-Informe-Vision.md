@@ -19,9 +19,9 @@ Docente: Mag. Ing. Patrick Cuadros Quiroga
 Integrantes:
 
 ***
- Vargas Gutierrez, Angel Jose 			(2020066922)
- Chino Rivera, Angel Alessandro         (2021069830)
- Luna Juarez, Juan Brendon              (2020068762)
+ Vargas Gutierrez, Angel Jose (2020066922)<br>
+ Chino Rivera, Angel Alessandro (2021069830)<br>
+ Luna Juarez, Juan Brendon (2020068762) 
 ***
 
 **Tacna – Perú**
