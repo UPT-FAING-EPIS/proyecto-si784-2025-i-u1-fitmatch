@@ -95,7 +95,7 @@ Versión *{1.0}*
 
         1.4.1 Objetivo general
    
-               Desarrollar una aplicación de escritorio de entrenamiento físico que
+               Desarrollar una aplicación web que potenciarea de entrenamiento físico que
                permita a los usuarios crear y seguir rutinas de ejercicio personalizadas.
    
         1.4.2 Objetivos Específicos
