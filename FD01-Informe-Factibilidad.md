@@ -85,7 +85,8 @@ Versión *{1.0}*
         - 5 meses
     1.3. Descripción
 
-        En que consiste el proyecto/importancia del mismo, contexto en que se va desenvolver
+         El proyecto consiste en el desarrollo de una aplicación de                  emparejamiento en gimnasio que permitirá a los usuarios hacer                match de acuerdo a sus rutinas en el gimnasio
+         
 
     1.4. Objetivos
 
