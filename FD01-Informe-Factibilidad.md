@@ -18,12 +18,10 @@ Docente: *Patrick Cuadros Quiroga*
 
 Integrantes:
 
-***
     Luna Juarez, Juan Brendon 			(2020068762)
     Vargas Gutierrez, Angel Jose 		(2020066922)
     Chino Rivera, Angel Alessandro 		(2021069830)
     
-***
 
 **Tacna – Perú**
 
