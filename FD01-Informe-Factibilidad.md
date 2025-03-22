@@ -27,10 +27,9 @@ Integrantes:
 
 ***2025***
 
-**  
-**
+
 </center>
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+<div style="page-break-after: always; visibility: hidden"></div>
 
 Sistema *Sistema Fit Match*
 
@@ -85,14 +84,25 @@ Versión *{1.0}*
         - 5 meses
     1.3. Descripción
 
-         El proyecto consiste en el desarrollo de una aplicación de                  emparejamiento en gimnasio que permitirá a los usuarios hacer                match de acuerdo a sus rutinas en el gimnasio
+   El proyecto consiste en el desarrollo de una aplicación de emparejamiento en gimnasio que permitirá a los usuarios hacer match     de acuerdo a sus rutinas en el gimnasio
+
          
 
     1.4. Objetivos
 
         1.4.1 Objetivo general
+   
+               Desarrollar una aplicación de escritorio de entrenamiento físico que
+               permita a los usuarios crear y seguir rutinas de ejercicio personalizadas.
+   
         1.4.2 Objetivos Específicos
-            Para cada objetivo específico se indicara que se va a lograr
+               Incluir opciones de personalización de rutinas para adaptarse a
+               diferentes niveles de condición física y objetivos personales.
+
+               Realizar pruebas de usabilidad y rendimiento para optimizar la
+               experiencia del usuario en la aplicación.
+
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
