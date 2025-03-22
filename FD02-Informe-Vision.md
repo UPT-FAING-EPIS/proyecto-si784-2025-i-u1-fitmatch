@@ -26,7 +26,7 @@ Integrantes:
 
 **Tacna – Perú**
 
-***{Año}***
+***2025***
 
 **  
 **
@@ -72,6 +72,7 @@ Integrantes:
 [1.	Introducción](#_Toc52661346)
 
 1.1	Propósito
+El **Sistema FitMatch** es una plataforma diseñada para conectar personas interesadas en el entrenamiento físico, facilitando la interacción entre usuarios.Su propósito es proporcionar una herramienta eficiente para encontrar compañeros de entrenamiento y mejorar la experiencia fitness a través de la tecnología. Además, el sistema incluirá una sección de ventas que permitirá a gimnasios y entrenadores ofrecer membresías, productos deportivos y servicios adicionales. 
 
 1.2	Alcance
 
