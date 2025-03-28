@@ -87,7 +87,7 @@ Versión *{1.0}*
    <br>
     1.3. Descripción
 
-   El proyecto consiste en el desarrollo de una aplicación de emparejamiento en gimnasio que permitirá a los usuarios hacer match     de acuerdo a sus rutinas en el gimnasio
+   El proyecto consiste en el desarrollo de una aplicación de emparejamiento en gimnasio que permitirá a los usuarios hacer match     de acuerdo a sus preferencias para encontrar un compañero para entrenar.
 
          
 
@@ -96,14 +96,26 @@ Versión *{1.0}*
         1.4.1 Objetivo general
    
                Desarrollar una aplicación web que potenciarea de entrenamiento físico que
-               permita a los usuarios crear y seguir rutinas de ejercicio personalizadas.
+               permita a los usuarios hacer match con un compañero para potenciar sus entrenamientos.
    
         1.4.2 Objetivos Específicos
-               Incluir opciones de personalización de rutinas para adaptarse a
-               diferentes niveles de condición física y objetivos personales.
+   
+               Crear perfiles personalizados para los usuarios
 
-               Realizar pruebas de usabilidad y rendimiento para optimizar la
-               experiencia del usuario en la aplicación.
+               Permitir a los usuarios registrar su información personal, 
+               preferencias de entrenamiento, historial de actividad y objetivos físicos.
+                
+               Implementar un sistema de mensajería 
+                
+               Desarrollar un chat interno o integración con sistemas de mensajería para que los usuarios puedan coordinar sus entrenamientos.
+                 
+               Optimizar la experiencia del usuario (UX/UI)
+                
+               Diseñar una interfaz intuitiva y atractiva para mejorar la navegación y la accesibilidad. 
+                
+               Desarrollar una versión escalable
+               Planificar una arquitectura escalable para futuras mejoras y aumento de usuarios
+
 
 
 
@@ -120,13 +132,13 @@ Versión *{1.0}*
         Riesgo de Seguridad: Posibles vulnerabilidades en la protección de datos de los
         usuarios, que podrían impactar en la confianza y aceptación de la aplicación.
 
-       Riesgo Operativo: Que los usuarios no encuentren la aplicación lo suficientemente
+        Riesgo Operativo: Que los usuarios no encuentren la aplicación lo suficientemente
         intuitiva, afectando la adopción y uso continuo de la herramienta.
        
         Riesgo de Cumplimiento: Cambios en normativas de privacidad y seguridad de datos
         que podrían requerir ajustes en la aplicación.
 
-       Riesgo de Competencia: Aparición de aplicaciones similares en el mercado que
+        Riesgo de Competencia: Aparición de aplicaciones similares en el mercado que
         ofrecen más funcionalidades o mejores prestaciones.
 
 
