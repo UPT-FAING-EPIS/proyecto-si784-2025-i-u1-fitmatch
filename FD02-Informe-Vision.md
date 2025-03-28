@@ -73,7 +73,7 @@ Integrantes:
 
 1.1	Propósito<br>
 
-El **Sistema FitMatch** es una plataforma diseñada para conectar personas interesadas en el entrenamiento físico, facilitando la interacción entre usuarios.Su propósito es proporcionar una herramienta eficiente para encontrar compañeros de entrenamiento y mejorar la experiencia fitness a través de la tecnología. Además, el sistema incluirá una sección de ventas que permitirá a gimnasios y entrenadores ofrecer membresías, productos deportivos y servicios adicionales. 
+El Sistema FitMatch es una plataforma diseñada para conectar a personas con intereses comunes en el entrenamiento físico, facilitando la interacción entre usuarios. Su objetivo es mejorar la experiencia fitness a través de la tecnología, permitiendo encontrar compañeros de entrenamiento de manera sencilla. Además, el sistema contará con una sección de ventas donde los gimnasios podrán ofrecer membresías, productos deportivos y otros servicios.
 
 1.2	Alcance<br>
 
@@ -97,21 +97,21 @@ Este documento se apoya en varios informes técnicos y administrativos desarroll
 
 1.5	Visión General<br>
 
-**FitMatch** es una plataforma diseñada para conectar personas interesadas en el entrenamiento físico. Su propósito es facilitar la interacción entre usuarios y entrenadores personales, permitiendo la búsqueda de compañeros de ejercicio y profesionales del fitness.  
-La aplicación integra funcionalidades como emparejamiento por intereses y geolocalización, mensajería interna y un sistema de venta de productos y servicios para gimnasios. FitMatch busca mejorar la experiencia de los usuarios al brindarles herramientas para optimizar sus entrenamientos y fomentar una comunidad activa y comprometida con el bienestar físico.  
+**FitMatch** es una plataforma diseñada para conectar personas interesadas en el entrenamiento físico. Su propósito es facilitar la interacción entre usuarios, permitiendo la búsqueda de compañeros de ejercicio.  
+La aplicación integra funcionalidades como emparejamiento por intereses y geolocalización, mensajería interna y un sistema de venta de productos y servicios para gimnasios. FitMatch busca mejorar la experiencia de los usuarios y fomentar una comunidad activa y comprometida con el bienestar físico.  
 
 [2.	Posicionamiento](#_Toc52661347)
 
 2.1	Oportunidad de negocio<br>
 
-El sistema **FitMatch** surge como una solución estratégica para mejorar la experiencia de las personas interesadas en el entrenamiento físico. Actualmente, muchas personas buscan compañeros de ejercicio o entrenadores personales, pero no cuentan con una plataforma eficiente que facilite estas conexiones.  
+El sistema **FitMatch** surge como una solución estratégica para mejorar la experiencia de las personas interesadas en el entrenamiento físico. Actualmente, muchas personas buscan compañeros de ejercicio pero no cuentan con una plataforma eficiente que facilite estas conexiones.  
 La falta de motivación y la dificultad para encontrar personas con objetivos similares pueden afectar la constancia en el entrenamiento, reduciendo los resultados y el compromiso con un estilo de vida saludable. FitMatch busca cerrar esta brecha ofreciendo una plataforma especializada para conectar a la comunidad fitness.  
 
 
 2.2	Definición del problema<br>
 
-El mundo del fitness presenta diversos desafíos para quienes buscan mantenerse activos, mejorar su rendimiento físico o encontrar apoyo en su entrenamiento. Muchas personas abandonan sus rutinas debido a la falta de motivación, la dificultad para encontrar compañeros con objetivos similares o la poca accesibilidad a entrenadores personales.  
-A pesar del auge de las redes sociales y aplicaciones de fitness, no existe una plataforma enfocada exclusivamente en facilitar la conexión entre usuarios con intereses y necesidades compartidas. Los gimnasios, por su parte, no siempre cuentan con mecanismos efectivos para fomentar la formación de grupos de entrenamiento o facilitar la interacción con entrenadores personales, lo que limita el acceso a asesoramiento profesional y al apoyo de la comunidad fitness.  
+El mundo del fitness presenta diversos desafíos para quienes buscan mantenerse activos, mejorar su rendimiento físico o encontrar apoyo en su entrenamiento. Muchas personas abandonan sus rutinas debido a la falta de motivación, la dificultad para encontrar compañeros con objetivos similares.  
+A pesar del auge de las redes sociales y aplicaciones de fitness, no existe una plataforma enfocada exclusivamente en facilitar la conexión entre usuarios con intereses y necesidades compartidas. Los gimnasios, por su parte, no siempre cuentan con mecanismos efectivos para fomentar la formación de grupos de entrenamiento, lo que limita el acceso al apoyo de la comunidad fitness.  
 **FitMatch** busca solucionar estos problemas ofreciendo una plataforma dedicada a la conexión y el acompañamiento en el entrenamiento físico. 
 
 [3.	Descripción de los interesados y usuarios](#_Toc52661348)
@@ -126,30 +126,27 @@ Los usuarios de **FitMatch** son principalmente personas interesadas en el entre
 
 3.3	Entorno de usuario
 
-**FitMatch** se diseñará para ser accesible desde distintos dispositivos, como computadoras y teléfonos móviles, brindando una experiencia intuitiva y fluida. Los usuarios podrán registrarse, crear perfiles, buscar compañeros de entrenamiento o entrenadores según su ubicación y preferencias, e interactuar mediante mensajes y publicaciones.  
+**FitMatch** se diseñará para ser accesible en cualquier computadora, brindando una experiencia intuitiva y fluida. Los usuarios podrán registrarse, crear perfiles, buscar compañeros de entrenamiento según su ubicación y preferencias, e interactuar mediante mensajes y publicaciones.  
 
 3.4	Perfiles de los interesados
 
 - **Propietarios de gimnasios**: Buscan aumentar la visibilidad de sus establecimientos, atraer nuevos clientes y fomentar la interacción entre los miembros de sus gimnasios.  
-- **Entrenadores personales**: Necesitan una herramienta que les ayude a encontrar y gestionar clientes de manera más eficiente.    
 - **Desarrolladores del sistema**: Encargados de la creación y mantenimiento de la plataforma, asegurando su correcto funcionamiento y evolución.  
 
 3.5	Perfiles de los Usuarios
 
 - **Usuarios generales**: Personas que buscan motivación para entrenar, encontrar compañeros de ejercicio y mejorar su rendimiento físico.  
 - **Usuarios avanzados**: Deportistas o entusiastas del fitness que buscan optimizar sus entrenamientos con entrenadores o compañeros con niveles similares.  
-- **Entrenadores personales**: Profesionales que desean ofrecer sus servicios a una audiencia más amplia y administrar su agenda de manera efectiva. 
 
 3.6	Necesidades de los interesados y usuarios
 
 ### **Necesidades de los interesados:**  
-- Aumentar la visibilidad y el alcance de gimnasios y entrenadores personales.  
+- Aumentar la visibilidad y el alcance de gimnasios.  
 - Ofrecer una plataforma confiable y segura que fomente la interacción entre los usuarios.  
 - Generar ingresos a través de suscripciones, publicidad o servicios premium.  
 
 ### **Necesidades de los usuarios:**  
 - Encontrar compañeros de entrenamiento con objetivos similares.  
-- Acceder fácilmente a entrenadores personales según ubicación y preferencias.  
 - Disponer de una herramienta práctica y accesible que facilite la planificación de entrenamientos.  
 - Mantener la motivación y el compromiso a través de la interacción con la comunidad. 
 
@@ -172,7 +169,7 @@ El producto busca posicionarse como una solución integral dentro del sector fit
 
 - Se asume que los usuarios cuentan con acceso a internet para utilizar la plataforma.  
 - La precisión del emparejamiento depende de la disponibilidad y actualización de datos de ubicación y preferencias del usuario.  
-- La adopción del sistema por parte de entrenadores y gimnasios será clave para su éxito.  
+- La adopción del sistema por parte de gimnasios será clave para su éxito.  
 - Dependencia de pasarelas de pago seguras para gestionar compras dentro de la plataforma.  
 - Cumplimiento con normativas de protección de datos y privacidad.  
 
@@ -181,7 +178,6 @@ El producto busca posicionarse como una solución integral dentro del sector fit
 **FitMatch** tendrá un modelo de negocio basado en:  
 
 - **Acceso gratuito** con funciones básicas para usuarios generales.  
-- **Planes de suscripción premium** para acceder a funciones avanzadas, como entrenamientos exclusivos y soporte personalizado.  
 - **Comisiones por ventas** dentro del marketplace de productos y servicios fitness.  
 - **Publicidad y promoción** de gimnasios y entrenadores dentro de la plataforma. 
 
@@ -196,11 +192,9 @@ El producto busca posicionarse como una solución integral dentro del sector fit
 
 FitMatch ofrece una serie de características clave diseñadas para mejorar la experiencia de los usuarios dentro del mundo del fitness:  
 
-- **Emparejamiento inteligente**: Algoritmo que conecta a usuarios con compañeros de entrenamiento y entrenadores personales basándose en ubicación, intereses y objetivos.  
+- **Emparejamiento**: Algoritmo que conecta a usuarios con compañeros de entrenamiento y entrenadores personales basándose en ubicación, intereses y objetivos.  
 - **Mensajería interna**: Comunicación directa y segura entre usuarios y entrenadores dentro de la plataforma.  
-- **Publicación de rutinas y entrenamientos**: Entrenadores pueden compartir planes personalizados y recomendaciones.  
 - **Marketplace fitness**: Venta de productos y servicios como suplementos, equipos de entrenamiento y asesorías personalizadas.  
-- **Sistema de suscripciones**: Acceso a contenido exclusivo y entrenadores premium mediante planes pagos.  
 
 [6.	Restricciones](#_Toc52661351)
 
@@ -219,8 +213,7 @@ Para garantizar una experiencia óptima, FitMatch debe cumplir con los siguiente
 - **Disponibilidad**: Mínimo 99% de tiempo en línea para garantizar acceso continuo.  
 - **Seguridad**: Implementación de cifrado en datos sensibles y protección contra accesos no autorizados.  
 - **Experiencia de usuario (UX/UI)**: Diseño intuitivo y adaptable a distintos dispositivos.  
-- **Tiempo de respuesta**: Carga rápida de contenido, con tiempos de respuesta inferiores a 2 segundos en consultas estándar.  
-- **Compatibilidad**: Soporte para versiones recientes de navegadores web y sistemas operativos móviles.  
+- **Compatibilidad**: Soporte para versiones recientes de navegadores web.  
 - **Mantenimiento y actualizaciones**: Correcciones y mejoras periódicas sin afectar la experiencia del usuario.  
 
 [8.	Precedencia y Prioridad](#_Toc52661353)
@@ -228,10 +221,9 @@ Para garantizar una experiencia óptima, FitMatch debe cumplir con los siguiente
 Las características de FitMatch serán implementadas en el siguiente orden de prioridad:  
 
 - **Sistema de emparejamiento** (alta prioridad) → Base principal del producto.  
-- **Mensajería interna y notificaciones** (alta prioridad) → Facilita la interacción entre usuarios.  
+- **Mensajería interna** (alta prioridad) → Facilita la interacción entre usuarios.  
 - **Marketplace fitness** (media-alta prioridad) → Genera oportunidades de negocio dentro de la plataforma.  
 - **Control de métricas y progreso** (media prioridad) → Mejora la experiencia del usuario.  
-- **Integración con redes sociales** (baja prioridad) → Agrega valor adicional, pero no es esencial en el lanzamiento inicial.  
 
 [9.	Otros requerimientos del producto](#_Toc52661354)
 
