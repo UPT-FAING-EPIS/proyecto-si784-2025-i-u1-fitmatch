@@ -70,36 +70,6 @@ Integrantes:
 **INDICE GENERAL**
 #
 [1.	Introducción](#_Toc52661346)
-
-1.1	Propósito<br>
-
-El Sistema FitMatch es una plataforma diseñada para conectar a personas con intereses comunes en el entrenamiento físico, facilitando la interacción entre usuarios. Su objetivo es mejorar la experiencia fitness a través de la tecnología, permitiendo encontrar compañeros de entrenamiento de manera sencilla. Además, el sistema contará con una sección de ventas donde los gimnasios podrán ofrecer membresías, productos deportivos y otros servicios.
-
-1.2	Alcance<br>
-
-El **Sistema FitMatch** tiene como objetivo conectar a personas interesadas en el entrenamiento físico a través de una plataforma digital. Este sistema permitirá la interacción entre usuarios mediante herramientas avanzadas como la geolocalización y la mensajería en tiempo real.  
-
-El alcance del sistema abarca los siguientes aspectos:  
-
-1.3	Definiciones, Siglas y Abreviaturas<br>
-
-Fit Match: Nombre del sistema, plataforma diseñada para conectar usuarios interesados en el entrenamiento físico.
-MySQL: Sistema de gestión de bases de datos utilizado en el proyecto.
-
-
-1.4	Referencias<br>
-
-Este documento se apoya en varios informes técnicos y administrativos desarrollados previamente:  
-- **Informe de Visión del Sistema FitMatch**: Detalla el objetivo, alcance y visión general del sistema.  
-- **Especificación de Requerimientos de Software (SRS) de FitMatch**: Define los requisitos funcionales y no funcionales necesarios para la implementación.  
-- **Informe de Factibilidad de FitMatch**: Explora la viabilidad económica, técnica, operativa y social del proyecto.  
-- **Informe Final de Proyecto de FitMatch**: Resume los resultados y logros obtenidos durante el desarrollo inicial del sistema.  
-
-1.5	Visión General<br>
-
-**FitMatch** es una plataforma diseñada para conectar personas interesadas en el entrenamiento físico. Su propósito es facilitar la interacción entre usuarios, permitiendo la búsqueda de compañeros de ejercicio.  
-La aplicación integra funcionalidades como emparejamiento por intereses y geolocalización, mensajería interna y un sistema de venta de productos y servicios para gimnasios. FitMatch busca mejorar la experiencia de los usuarios y fomentar una comunidad activa y comprometida con el bienestar físico.  
-
 [2.	Posicionamiento](#_Toc52661347)
 
 2.1	Oportunidad de negocio<br>
@@ -251,14 +221,30 @@ e) Estandaraes de calidad y seguridad	](#_toc394513800)42
 1. <span id="_Toc52661346" class="anchor"></span>**Introducción**
 
     1.1	Propósito
+    El Sistema FitMatch es una plataforma diseñada para conectar a personas con intereses comunes en el entrenamiento físico, facilitando la interacción entre usuarios. Su objetivo es mejorar la experiencia fitness a     
+    través de la tecnología, permitiendo encontrar compañeros de entrenamiento de manera sencilla. Además, el sistema contará con una sección de ventas donde los gimnasios podrán ofrecer membresías, productos deportivos y 
+    otros servicios.
 
     1.2	Alcance
+    El **Sistema FitMatch** tiene como objetivo conectar a personas interesadas en el entrenamiento físico a través de una plataforma digital. Este sistema permitirá la interacción entre usuarios mediante herramientas 
+    avanzadas como la geolocalización y la mensajería en tiempo real.  
 
     1.3	Definiciones, Siglas y Abreviaturas
+    Fit Match: Nombre del sistema, plataforma diseñada para conectar usuarios interesados en el entrenamiento físico.
+    MySQL: Sistema de gestión de bases de datos utilizado en el proyecto.
 
     1.4	Referencias
+    Este documento se apoya en varios informes técnicos y administrativos desarrollados previamente:  
+      - **Informe de Visión del Sistema FitMatch**: Detalla el objetivo, alcance y visión general del sistema.  
+      - **Especificación de Requerimientos de Software (SRS) de FitMatch**: Define los requisitos funcionales y no funcionales necesarios para la implementación.  
+      - **Informe de Factibilidad de FitMatch**: Explora la viabilidad económica, técnica, operativa y social del proyecto.  
+      - **Informe Final de Proyecto de FitMatch**: Resume los resultados y logros obtenidos durante el desarrollo inicial del sistema.  
 
     1.5	Visión General
+    **FitMatch** es una plataforma diseñada para conectar personas interesadas en el entrenamiento físico. Su propósito es facilitar la interacción entre usuarios, permitiendo la búsqueda de compañeros de ejercicio.  
+    La aplicación integra funcionalidades como emparejamiento por intereses y geolocalización, mensajería interna y un sistema de venta de productos y servicios para gimnasios. FitMatch busca mejorar la experiencia de los 
+    usuarios y fomentar una comunidad activa y comprometida con el bienestar físico.  
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
