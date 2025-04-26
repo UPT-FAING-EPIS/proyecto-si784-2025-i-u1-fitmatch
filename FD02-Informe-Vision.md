@@ -328,13 +328,34 @@ Las características de FitMatch serán implementadas en el siguiente orden de p
 
 9. <span id="_Toc52661354" class="anchor"></span>**Otros requerimientos del producto**
 
+Además de los requisitos funcionales y no funcionales previamente detallados, se consideran los siguientes requerimientos adicionales para el producto:
+
+- **Compatibilidad:** El sistema debe ser compatible con navegadores web actuales (Chrome, Firefox, Edge) y con dispositivos móviles.
+- **Seguridad:** Se deben implementar mecanismos de autenticación segura y protección de datos sensibles mediante cifrado.
+- **Escalabilidad:** El sistema debe permitir futuras actualizaciones y expansión de módulos adicionales sin afectar el rendimiento actual.
+- **Accesibilidad:** La plataforma debe cumplir con estándares de accesibilidad (WCAG) para usuarios con discapacidad.
+- **Soporte técnico:** Se debe ofrecer soporte técnico durante un mínimo de 12 meses tras la implementación.
+
+
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 <span id="_Toc52661355" class="anchor"></span>**CONCLUSIONES**
 
+El desarrollo del sistema cumple con los objetivos establecidos al inicio del proyecto, proporcionando una herramienta eficiente, segura y escalable. Se logró integrar las necesidades funcionales específicas, garantizando una experiencia de usuario satisfactoria. La arquitectura modular implementada permitirá adaptaciones futuras de acuerdo con las necesidades cambiantes de los usuarios y de la institución.
+
+El proyecto también demostró ser viable técnica y económicamente, cumpliendo con los plazos y el presupuesto previstos. Gracias a las pruebas realizadas, se comprobó el correcto funcionamiento del sistema en distintos entornos, asegurando su estabilidad y rendimiento.
+
+
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 <span id="_Toc52661356" class="anchor"></span>**RECOMENDACIONES**
+
+Para asegurar la continuidad y el éxito del sistema a largo plazo, se recomiendan las siguientes acciones:
+
+- **Capacitación:** Realizar sesiones de capacitación periódicas para los usuarios finales, para un uso adecuado y eficiente del sistema.
+- **Mantenimiento:** Establecer un plan de mantenimiento preventivo y correctivo para asegurar la operatividad continua del sistema.
+- **Actualización:** Evaluar y aplicar actualizaciones tecnológicas conforme evolucionen las necesidades y las plataformas tecnológicas.
+- **Monitoreo:** Implementar sistemas de monitoreo para detectar posibles fallas o cuellos de botella a tiempo y prevenir incidencias mayores.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
