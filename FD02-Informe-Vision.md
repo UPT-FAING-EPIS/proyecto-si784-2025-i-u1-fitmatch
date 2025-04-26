@@ -298,7 +298,6 @@ El desarrollo y uso de FitMatch están sujetos a las siguientes restricciones:
 - **Acceso a internet**: La plataforma requiere una conexión activa para su funcionamiento.  
 - **Privacidad y protección de datos**: Cumplimiento con regulaciones de privacidad como GDPR y la normativa local.  
 - **Requisitos técnicos**: Compatible con navegadores modernos y dispositivos móviles con iOS o Android.  
-- **Interacciones reguladas**: La comunicación entre usuarios debe respetar términos de servicio y condiciones de uso. 
 - **Limitaciones en la precisión del emparejamiento**: Basado en la disponibilidad y actualización de datos del usuario.  
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
