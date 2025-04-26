@@ -68,6 +68,32 @@ Integrantes:
 
 
 **INDICE GENERAL**
+# **INDICE GENERAL**
+
+[1. Descripción del Proyecto](#_Toc52661346)
+
+[2. Riesgos](#_Toc52661347)
+
+[3. Análisis de la Situación actual](#_Toc52661348)
+
+[4. Estudio de Factibilidad](#_Toc52661349)
+
+[4.1 Factibilidad Técnica](#_Toc52661350)
+
+[4.2 Factibilidad económica](#_Toc52661351)
+
+[4.3 Factibilidad Operativa](#_Toc52661352)
+
+[4.4 Factibilidad Legal](#_Toc52661353)
+
+[4.5 Factibilidad Social](#_Toc52661354)
+
+[4.6 Factibilidad Ambiental](#_Toc52661355)
+
+[5. Análisis Financiero](#_Toc52661356)
+
+[6. Conclusiones](#_Toc52661357)
+
 #
 [1.	Introducción](#_Toc52661346)
 
