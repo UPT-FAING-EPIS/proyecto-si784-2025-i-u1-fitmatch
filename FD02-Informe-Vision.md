@@ -341,7 +341,6 @@ Además de los requisitos funcionales y no funcionales previamente detallados, s
 <span id="_Toc52661355" class="anchor"></span>**CONCLUSIONES**
 
 El desarrollo del sistema cumple con los objetivos establecidos al inicio del proyecto, proporcionando una herramienta eficiente, segura y escalable. Se logró integrar las necesidades funcionales específicas, garantizando una experiencia de usuario satisfactoria. La arquitectura modular implementada permitirá adaptaciones futuras de acuerdo con las necesidades cambiantes de los usuarios y de la institución.
-
 El proyecto también demostró ser viable técnica y económicamente, cumpliendo con los plazos y el presupuesto previstos. Gracias a las pruebas realizadas, se comprobó el correcto funcionamiento del sistema en distintos entornos, asegurando su estabilidad y rendimiento.
 
 
